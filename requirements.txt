@@ -9,3 +9,4 @@ seaborn==0.13.0
 nest_asyncio==1.5.5
 streamlit>=0.80.0
 -f https://download.pytorch.org/whl/torch_stable.html
+timm
