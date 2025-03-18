@@ -171,7 +171,7 @@ with st.sidebar:
     # )
     model_option = st.selectbox(
         "Choose a model to predict:",
-        ("EfficientNet", "ResNet50", "ResNet101")
+        ("EfficientNet", "ResNet50")
     )
     
 
